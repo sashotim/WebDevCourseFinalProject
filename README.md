@@ -1,5 +1,5 @@
 # WebDevCourseFinalProject
-Dieses Projet habe ich als Übung von diesem Tutorial gemacht - https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview .
+Dieses Projekt habe ich als Übung von diesem Tutorial gemacht - https://www.udemy.com/the-web-developer-bootcamp/learn/v4/overview .
 
 Wichtigste Technologien die ich benutzt habe sind:
 # Für das Beckend habe ich NodeJS mit die npm-Packeten:
